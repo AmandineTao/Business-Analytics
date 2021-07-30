@@ -1,0 +1,17 @@
+Numclient : client number
+Balance : average current account balance over the past 12 months (in €)
+Overdraft : number of months in overdraft on the current account over the last 12 months
+Total overdraft : cumulative amount of overdrafts on the current account over the past 12 months
+Nb accounts : number of accounts used aside from the current account (savings, pea, cmt, cel, pel, asv, perp …)
+Total loans : cumulative borrowings over the past 3 years (in €)
+Var savings : % variation in savings balance over the past 12 months
+Total deposits : cumulative deposits made to savings account over the past 5 years (in €)
+Total withdrawls : cumulative withdrawals from savings account over past 12 months (in €)
+PEL : property savings account (0/no 1/yes)
+CEL : property savings scheme (0/no 1/yes)
+Life ins : life insurance (0/no 1/yes)
+Cmt : stocks (0/no 1/yes)
+Pea : investment account (0/no 1/yes)
+Age : client's age
+Profession : client's profession (tradesperson, manager, employee, laborer, retiree, other)
+Children : number of children under 18 yo
